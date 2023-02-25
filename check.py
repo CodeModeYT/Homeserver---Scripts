@@ -4,9 +4,6 @@ import pushover
 
 #THIS SCRIPT IS USED TO MONITOR MY SERVER AND ALERT ME WHEN IT'S DOWN
 
-# Pushover API credentials and user key
-PUSHOVER_API_KEY = 'a43cbrkw1tpime3jzdwwutb97rpwpr'
-PUSHOVER_USER_KEY = 'uccs42b9qhkvm312yxjb8m5fr7sh6x'
 
 # URL of the server to check
 URL = 'https://192.168.178.86'

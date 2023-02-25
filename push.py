@@ -20,7 +20,7 @@ def start():
             dst_path = os.path.join(destination, os.path.relpath(src_path, source))
             copy_files(src_path, dst_path)
 
-while True:
-    start()
-    print("Successfully backed up your files from your NAS to the MyCloud!")
-    
+
+start()
+print("Successfully backed up your files from your NAS to the MyCloud!")
+
