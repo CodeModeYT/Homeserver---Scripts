@@ -8,4 +8,4 @@ I built my Server out of 2 old hp work stations. Now it has:
  - 1 SSD as boot drive (225GB)
  - 1 HDD as storage drive (1TB)
  
-As base OS I've installed proxmox and inside of proxmox I've installed TrueNAS and home assistant.
+As base OS I've installed proxmox and inside of it I've installed TrueNAS and home assistant (currently only for testing purposes).
